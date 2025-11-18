@@ -90,4 +90,4 @@ Deploy wallet: `npm run deploy-wallet`
 3) Key recovery: 2FA, but in multisig extension there is an option to change the control keys. Possible cooldown period when the other party can cancel the key change.
 
 4) Key compromise: An extension with a new key is added, extension prohibits wallet signature;
-
+https://github.com/tonkeeper/w5/blob/main/scripts%2FdeployWalletV5.ts
